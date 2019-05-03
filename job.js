@@ -1,4 +1,4 @@
-export const job = {
+export default {
   title: 'Job',
   name: 'job',
   type: 'document',

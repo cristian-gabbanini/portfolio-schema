@@ -1,6 +1,5 @@
-export const technology = {
+export default {
   title: 'Technology',
-
   name: 'technology',
   type: 'document',
   fields: [
