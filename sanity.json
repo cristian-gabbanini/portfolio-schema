@@ -1,0 +1,8 @@
+{
+  "parts": [
+    {
+      "implements": "part:@sanity/base/schema",
+      "path": "./schema.js"
+    }
+  ]
+}
